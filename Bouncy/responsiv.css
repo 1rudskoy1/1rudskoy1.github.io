@@ -1,0 +1,176 @@
+@media screen and (max-width: 1200px ){
+	.Skills{
+		margin-top: 15px;
+	}
+	.Skills__skill_name{
+		padding-top: 0;
+	}
+	.Skills__skill:last-child{
+		margin-left: 80px;
+		margin-top: 14px;
+	}
+	.Impressed{
+		height: 300px;
+	}
+	.shadow{
+		width: 240px;
+	}
+	.block__img{
+		margin-top: 30px;
+	}
+	.block__info_spec{
+		margin-left: 0;
+	}
+	.blocks-info__block_icon {
+		left: 112px;
+	}
+}
+
+@media screen and (max-width: 992px ){
+	.nav__link{
+		padding: 1px 6px;
+	}
+	.Skills__skill{
+		margin: 20px 0 20px  50px;
+	}
+	.Skills__skill:last-child{
+		margin-left: 50px;
+		margin-top: 20px;
+	}
+	.Impressed__text{
+		margin-top: 0;
+	}
+	.Impressed__text_head{
+		margin-top: 0px;
+	}
+	.Impressed__tv_img{
+		top: 0;
+	}
+	.Tabs__items{
+		padding: 0;
+		padding: 10px 10px;
+	}
+	.Tabs__items_item{
+		padding: 10px 10px;
+	}
+	.Imgs__work_img{
+		height: 220px;
+	}
+	.shadow{
+		width: 180px;
+		height: 220px;
+		top: -98px;
+		padding-top: 60px;
+	}
+	.shadow__title{
+		font-size: 16px;
+	}
+	.shadow__description{
+		font-size: 12px;
+	}
+	.block__info{
+		margin-left: 23px;
+	}
+	.block__info_spec{
+		margin-left: 184px;
+	}
+	.blocks-info__block_img {
+		width: 100%;
+	}
+	.blocks-info__block_icon{
+		top: 18px;
+    	left: 75px;
+	}
+}
+@media screen and (max-width: 768px){
+	.first-section{
+		height: 580px;
+	}
+	.nav__brand{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.header__title{
+		margin-top:80px;
+	}
+	.Bouncy{
+		text-align: center;
+	}
+	.ipad__img{
+		margin-top: 25px;
+	}
+	.creative__text_right{
+		padding-left: 0;
+	}
+	.Skills__skill{
+		margin-left: 20px;
+	}
+	.Skills__skill:last-child{
+		margin-left: 20px;
+	}
+	.Impressed__tv{
+		display: none;
+	}
+	.Imgs__work_img{
+		margin: 10px 0; 
+	}
+	.shadow{
+		width: 99%;
+		left: 0px;
+	}
+	.person__info {
+		text-align: center;
+	}
+	.person__info_name{
+		margin-top: 20px;
+	}
+	.block__info{
+		margin-left: 1px;
+	}
+	.block__info_partho{
+		margin-left: 217px;
+	}
+	.Plains__plain{
+		margin: 15px 0;
+		padding: 0;
+	}
+	.Alert{
+		padding-top: 56px;
+	}
+	.Subscribe__form_button{
+		margin-top: 10px;
+	}
+	.Tabs__items{
+		padding: 0;
+	}
+	.procent{
+		position: absolute;
+  	  	top: -25px;
+  	 	right: 0;
+	}
+	.name{
+		position: absolute;
+		top: -25px;
+		left: 1px;
+	}
+	.blocks-info__block_icon{
+		top: 90px;
+    	left: 205px;
+    	font-size: 50px;
+	}
+	.Menu .icons{
+		text-align: center; 
+  		padding-right: 0px;
+	}
+}
+@media screen and (max-width: 625px){
+	.blocks-info__block_icon{
+		display: none;
+	}
+	.Testiomonials{
+		display: none;
+	}
+	.Alert {
+    	height: 225px;
+	}
+}
